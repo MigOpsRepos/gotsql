@@ -32,4 +32,4 @@
     rows, err := db.Query(query, ...)
 
 
-> You can find the usage and more examples in this [article](https://www.migops.com) 
+> You can find the usage and more examples in this [article](https://www.migops.com/blog/2021/10/22/organizing-postgresql-codebase-using-templates-in-golang/) 
